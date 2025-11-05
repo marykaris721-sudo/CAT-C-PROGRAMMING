@@ -1,7 +1,7 @@
 /*
 Name:Mary Wanjiru Kariuki
 Reg No:CT100/G/25276/24
-Description:a program 
+Description:a file program 
 */
 #include <stdio.h>
 #include <stdlib.h>
@@ -83,4 +83,5 @@ int main() {
     processInputFile();
     displayFiles();
     return 0;
+
 }
