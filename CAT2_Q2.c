@@ -1,6 +1,6 @@
 /*Name: MARY WANJIRU KARIUKI
 Reg No:CT100/G/25276/24
-Description:a program 
+Description:a program to excute net pay
 */
 
 #include <stdio.h>
@@ -39,4 +39,5 @@ int main() {
     printf("Net Pay: $%.2f\n", net_pay);
 
     return 0;
+
 }
